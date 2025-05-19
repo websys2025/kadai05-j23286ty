@@ -1,11 +1,14 @@
 ## 外部APIの呼び出しのミニレポート
 ### Q3-1. 郵便番号APIについて説明せよ。
 * エンドポイントと機能
-* https://zipcloud.ibsnet.co.jp/api/search
+* エンドポイント:https://zipcloud.ibsnet.co.jp/api/search
+* 機能:*郵便番号を入力するとそれに対応する都道府県、市区町村の情報を返すAPI
 * リクエストとレスポンスのフォーマット
-* 郵便番号を入力するとそれに対応する都道府県、市区町村の情報を返すAPI
+* リクエスト:
+* レスポンス:
 ### Q3-2. 各自で調査したAPIについて説明せよ。
 * APIの名称と参照URL
+* https://api.thecatapi.com/v1/images/search
 * エンドポイントと機能
 * リクエストとレスポンスのフォーマット
 ### Q3-3. 感想
